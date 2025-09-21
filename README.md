@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalbajaj2&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalbajaj2" /> </p>
 
-- 🔭 I’m currently working on **Data Analysis Projects**
+- 🔭 I’m currently working on **Business Intelligence Projects**
 
 - 🌱 I’m currently learning **Data Analysis**
 
